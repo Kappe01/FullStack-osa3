@@ -1,0 +1,7 @@
+POST https://fullstack-osa3.fly.dev/api/persons
+Content-Type: application/json
+
+{
+    "name": "moi",
+"number": "1234"
+}
